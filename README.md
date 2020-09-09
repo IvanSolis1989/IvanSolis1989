@@ -1,5 +1,6 @@
 # 大家好 👋
 ![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSolis1989)](https://github.com/IvanSolis1989)
 
 <!--
 **IvanSolis1989/IvanSolis1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
